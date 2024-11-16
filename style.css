@@ -13,7 +13,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: #333;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)),  url("/images/back1.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)),  url("images/back1.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ body {
     justify-content: space-around;
     align-items: center; 
     flex-wrap: wrap;
-    background-image : linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)), url("/images/wp.jpg");
+    background-image : linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)), url("./images/wp.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -374,7 +374,7 @@ body {
     justify-content: left;
     align-items: center;
     background-color: #f2f2f2;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.801)), url("/images/suma.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.801)), url("./images/suma.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
